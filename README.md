@@ -23,11 +23,11 @@ The package is compatible with Python versions `3.7+`.
 Install the package from PyPi using the following pip command:
 
 ```bash
-pip install notion-sdk-py==1.0.0
+pip install notionApi-py==1.0.0
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/notion-sdk-py/1.0.0
+https://pypi.python.org/pypi/notionApi-py/1.0.0
 
 ## Test the SDK
 
